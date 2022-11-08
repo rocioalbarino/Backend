@@ -10,7 +10,6 @@ com\portfolio\rocioalba\Security\Entity\Usuario.class
 com\portfolio\rocioalba\Security\Enums\RolNombre.class
 com\portfolio\rocioalba\Service\ImpPersonaService.class
 com\portfolio\rocioalba\Repository\Rhys.class
-com\portfolio\rocioalba\Interface\IPersonaService.class
 com\portfolio\rocioalba\Controller\CEducacion.class
 com\portfolio\rocioalba\Controller\CHys.class
 com\portfolio\rocioalba\Security\Controller\Mensaje.class
@@ -26,6 +25,7 @@ com\portfolio\rocioalba\Controller\PersonaController.class
 com\portfolio\rocioalba\Security\Service\UsuarioService.class
 com\portfolio\rocioalba\Security\Entity\Rol.class
 com\portfolio\rocioalba\Security\jwt\JwtEntryPoint.class
+com\portfolio\rocioalba\Dto\dtoPersona.class
 com\portfolio\rocioalba\Entity\Educacion.class
 com\portfolio\rocioalba\Security\Entity\UsuarioPrincipal.class
 com\portfolio\rocioalba\Repository\REducacion.class
